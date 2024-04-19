@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "id": "284",
+      "title": "Eid",
+      "content": "sn",
+      "tag": "easy",
+      "min": "Lays",
+      "imageUrl": "socks.jpg"
+    },
+    {
+      "id": "1",
+      "title": "The Day I Accidentally Wore My Shirt Backwards",
+      "content": "You know it's going to be a great day when you start by putting your shirt on backwards! As I strutted confidently into the office, little did I know I was about to become the fashion icon of the year.",
+      "tag": "Fashion Fiasco",
+      "min": "5 MIN READ",
+      "imageUrl": "backward.jpg"
+    },
+    {
+      "id": "2",
+      "title": "The Great Microwave Burrito Disaster",
+      "content": "Ah, the microwave burrito: a humble meal for many, a culinary adventure for me. Little did I know that pressing '2:00' instead of '1:00' would lead to a fiery explosion and a kitchen smelling like a mix of sadness and burnt beans.",
+      "tag": "Kitchen Chronicles",
+      "min": "3 MIN READ",
+      "imageUrl": "microwave.jpeg"
+    },
+    {
+      "id": "3",
+      "title": "The Misadventures of Pet Sitting a Goldfish",
+      "content": "When my friend asked me to watch his goldfish while he was away, I thought it would be a breeze. Little did I know, Goldie had a penchant for escaping her bowl and exploring the wide world of my living room.",
+      "tag": "Fish Tales",
+      "min": "4 MIN READ",
+      "imageUrl": "fish.jpg"
+    },
+    {
+      "id": "4",
+      "title": "The Day I Tried Extreme Ironing",
+      "content": "Ironing: a mundane task, or the next extreme sport? With my ironing board strapped to my back and my trusty iron in hand, I scaled mountains, surfed waves, and ironed my way into the history books (and a few wrinkles).",
+      "tag": "Extreme Ironing",
+      "min": "6 MIN READ",
+      "imageUrl": "iron-man.jpeg"
+    },
+    {
+      "id": "5",
+      "title": "The Great Sock Mystery",
+      "content": "In the land of lost socks, I am king. Every laundry day, another sock disappears into the void, leaving its mate behind in despair. But fear not, for I have embarked on a quest to find the missing socks and reunite them with their partners!",
+      "tag": "Sock Saga",
+      "min": "5 MIN READ",
+      "imageUrl": "socks.jpg"
+    },
+    {
+      "id": "6",
+      "title": "The Art of Procrastination: A Masterclass",
+      "content": "Why do today what you can put off until tomorrow? Join me on a journey through the fine art of procrastination, where deadlines are merely suggestions and Netflix binges are Olympic events. Step 1: Read this blog post. Step 2: Maybe start that thing you were supposed to do.",
+      "tag": "Procrastination Prodigy",
+      "min": "7 MIN READ",
+      "imageUrl": "procrastination-memes-feat-jan-11.jpg"
+    }
+  ]
+}
