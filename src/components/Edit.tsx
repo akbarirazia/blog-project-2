@@ -88,11 +88,15 @@ function Edit() {
       }
       console.log(formData)
 
-      await axios.put("http://localhost:3000/" + id, formData, {
-        headers: {
-          "Content-Type": "multipart/form-data",
-        },
-      })
+      await axios.put(
+        "https://blog-project-2-bjam.onrender.com/" + id,
+        formData,
+        {
+          headers: {
+            "Content-Type": "multipart/form-data",
+          },
+        }
+      )
       setShowToast(true)
       setToastMessage("Blog was successfully edited")
       setTimeout(() => navigate("/"), 1000)
