@@ -23,6 +23,10 @@ body {
 #root {
   overflow: hidden !important;
 }
+* {
+  font-family: "Montserrat", sans-serif !important;
+}
+
 .hide {
   overflow-y: hidden !important;
 }
