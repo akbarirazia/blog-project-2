@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react"
 import { useParams } from "react-router-dom"
 import placeholder from "../../public/placeholder-image.png"
+import Loading from "./Loading"
 
 const baseUrl = "https://blog-project-2-bjam.onrender.com/uploads"
 
@@ -61,7 +62,7 @@ const ViewBlog = () => {
   }, [data])
 
   if (isLoading) {
-    return <div>Loading...</div>
+       return <Loading />
   }
 
   return (
