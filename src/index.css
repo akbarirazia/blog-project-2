@@ -17,6 +17,7 @@
 html,
 body {
   overflow-x: hidden;
+  background: #e3e3e3 !important;
 }
 
 #root {
@@ -27,6 +28,12 @@ body {
 }
 .background {
   background-image: url(../../backend/uploads/picture\ 1.png);
+}
+img {
+  filter: grayscale(0.5);
+}
+img:hover {
+  filter: grayscale(0);
 }
 .toast {
   position: fixed;
