@@ -12,7 +12,7 @@ function BlogList() {
     const fetchData = async () => {
       try {
         const response = await fetch(
-          "https://blog-project-1-ssbq.onrender.com/"
+          "https://blog-project-2-bjam.onrender.com/"
         )
         if (!response.ok) {
           throw new Error("Failed to fetch data")
